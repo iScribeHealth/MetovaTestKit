@@ -28,6 +28,7 @@
 //
 
 import Foundation
+import UIKit
 
 /// Test that a view controller presented an alert with the specified title, message, action titles, and action styles.
 ///
